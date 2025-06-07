@@ -41,6 +41,7 @@ python main.py
 
 ## Screenshots
 Screenshots are available in the `Screenshots/` folder.
+![default](Screenshots/default.png)
 
 ## License
 Check out [LICENSE](LICENSE) for details.
