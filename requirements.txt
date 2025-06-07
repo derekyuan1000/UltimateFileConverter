@@ -1,0 +1,5 @@
+ttkbootstrap
+sv-ttk
+pillow
+pydub
+
